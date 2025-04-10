@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://yourdomain.com/path-to-logo.png" width="200" alt="Scriptura Logo" />
+</p>
+
+
 # 📜 Scriptura
 
 **Scriptura** is the world’s first AI-powered paleography assistant.  
